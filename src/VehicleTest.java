@@ -34,9 +34,12 @@ public class VehicleTest {
         };
 
 
-        System.out.println(j.toString());
-        System.out.println(c.toString());
-        System.out.println(v.toString());
+
+        System.out.println(Jet.toString());
+        System.out.println(Car.toString());
+        System.out.println(Vehicle.toString());
+
+
 
     }
 }

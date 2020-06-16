@@ -37,4 +37,11 @@ public class Vehicle {
     public void setPowerSource(String powerSource) {
         this.powerSource = powerSource;
     }
+
+    public void turnOn(){
+        System.out.println("Vehicle is turning on... ");
+
+//    public Vehicle turnOn();
+
+    }
 }
